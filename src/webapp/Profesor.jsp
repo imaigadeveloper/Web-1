@@ -55,7 +55,7 @@
         }
         %>
     </table>
-    <a href="Alumnos.jsp" class="btn btn-secondary">
+    <a href="Profesores.jsp" class="btn btn-secondary">
         Regresar
     </a>
 </div>
